@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hi myself TUSHAR JAIN"<br>🤝 I’m looking for Internship in domain of web development<br>🌱 I’m currently learning Next JS<br>💬 Ask me  web development<br>⚡ Fun fact
+Hi myself TUSHAR JAIN <br>🤝 I’m looking for Internship in domain of web development<br>🌱 I’m currently learning Next JS<br>💬 Ask me  web development<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
